@@ -2,7 +2,7 @@
 <img width="80%" height = "350px" src="https://www.wallpaperup.com/uploads/wallpapers/2016/09/30/1021581/54a1b15628c7ade77a1799666d37c9e3.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=danielo8417.danielo8417)
