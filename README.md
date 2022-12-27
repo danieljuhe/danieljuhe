@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on 4Geeks Academy projects, Github projects, Ecommerce, blogs etc...
+- 🔭 I’m currently working on 4Geeks Academy projects, Github projects, Web Apps, blogs etc...
 
 - 🌱 I’m currently learning FullStack Developer, Software Engineering etc... 
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+- 👯 I’m looking to work on projects, tech articles... 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+- 📫 How to reach me **danieljuhe@gmail.com**
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/danielo8417?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -39,7 +39,9 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.github.com/danielo8417'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<p align="left">
+<a href="https://linkedin.com/in/daniel juarrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel juarrero" height="30" width="40" /></a>
+</p> 
 
 
 # 📊 GitHub Stats:
